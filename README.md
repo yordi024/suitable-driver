@@ -1,6 +1,5 @@
 
-
-<h4> <center> Code Exercise </center></h4>
+## Code Exercise
 
 An application that assigns shipment destinations to drivers in a way that maximizes the suitability score (SS) based on a top-secret algorithm.
 
