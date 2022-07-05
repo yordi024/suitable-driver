@@ -4,7 +4,7 @@
 An application that assigns shipment destinations to drivers in a way that maximizes the suitability score (SS) based on a top-secret algorithm.
 
 - Expecting well-formed input.
-- Considering the white space between lines.
+- Taking into account the blank space between the words.
 - Using [Munkres Algorithm](https://github.com/liqul/php-munkres) to determine the minimum cost for the task (destination) by the worker (driver)
 
 <!-- GETTING STARTED -->
